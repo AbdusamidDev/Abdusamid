@@ -15,10 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdusamid07?tab=repositories](https://github.com/Abdusamid07?tab=repositories)
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android, Kotlin, Java, Figma**
 
-- 📫 How to reach me **muhammadovabdusamid0770@gmail.com**
-- 📫 How to reach me **muhammadovabdusamid07@gmail.com**
+- 📫 How to reach me **muhammadovabdusamid0770@gmail.com, muhammadovabdusamid07@gmail.com**
 
 - ⚡ Fun fact **It takes a sloth two to four weeks to digest food. They actually have the slowest metabolic system of any mammal.**
 
