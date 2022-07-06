@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Codial App**
+- 🔭 I’m currently working on **Music PLayer**
 
-- 🌱 I’m currently learning **Database, Retrofit, Permissions**
+- 🌱 I’m currently learning **Database, Retrofit, Room**
 
 - 🤝 I’m looking for help with **work that can be increase my algorithm**
 
@@ -17,6 +17,7 @@
 
 - 💬 Ask me about **Android, Kotlin, Java**
 
+- 📫 How to reach me **muhammadovabdusamid0770@gmail.com**
 - 📫 How to reach me **muhammadovabdusamid07@gmail.com**
 
 - ⚡ Fun fact **It takes a sloth two to four weeks to digest food. They actually have the slowest metabolic system of any mammal.**
