@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Music PLayer**
 
-- 🌱 I’m currently learning **Database, Retrofit, Room**
+- 🌱 I’m currently learning **AsyncTask, MultiThreading, Handler, RxKotlin**
 
 - 🤝 I’m looking for help with **work that can be increase my algorithm**
 
