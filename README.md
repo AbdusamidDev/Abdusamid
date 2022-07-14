@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Music PLayer**
+- 🔭 I’m currently working on **Dictionary App and CurrencyConverter App**
 
-- 🌱 I’m currently learning **AsyncTask, MultiThreading, Handler, RxKotlin**
+- 🌱 I’m currently learning **Retrofit, MultiThreading, Handler, RxKotlin**
 
-- 🤝 I’m looking for help with **work that can be increase my algorithm**
+- 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdusamid07?tab=repositories](https://github.com/Abdusamid07?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AbdusamidDev?tab=repositories)
 
 - 💬 Ask me about **Android, Kotlin, Java, Figma**
 
-- 📫 How to reach me **muhammadovabdusamid0770@gmail.com, muhammadovabdusamid07@gmail.com**
+- 📫 How to reach me **muhammadovabdusamid0770@gmail.com, muhammadov0770@gmail.com**
 
 - ⚡ Fun fact **It takes a sloth two to four weeks to digest food. They actually have the slowest metabolic system of any mammal.**
 
