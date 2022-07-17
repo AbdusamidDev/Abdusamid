@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Dictionary App and CurrencyConverter App**
 
-- 🌱 I’m currently learning **Retrofit, MultiThreading, Handler, RxKotlin**
+- 🌱 I’m currently learning **Networking Volley, AsyncTask, RxKotlin**
 
 - 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
