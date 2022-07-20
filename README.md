@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Dictionary App and CurrencyConverter App**
+- 🔭 I’m currently working on **Chat App, which will work with Firebase**
 
-- 🌱 I’m currently learning **Networking Volley, AsyncTask, RxKotlin**
+- 🌱 I’m currently learning **Firebase, Retorfit2, Retrofit**
 
 - 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
