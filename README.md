@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Chatting App, which will work with Firebase**
 
-- 🌱 I’m currently learning **Firebase RealTime, Firebase Database, Firebase Storage**
+- 🌱 I’m currently learning **Firebase Analytics, Firebase Cloud Messaging, Firebase Storage**
 
 - 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
