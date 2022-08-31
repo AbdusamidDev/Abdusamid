@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chatting App, which will work with Firebase**
+- 🔭 I’m currently working on **Alarm Manager and Clock**
 
-- 🌱 I’m currently learning **Firebase Analytics, Firebase Cloud Messaging, Firebase Storage**
+- 🌱 I’m currently learning **Background Services, AlarmManager and BroadCast Receiver**
 
 - 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
