@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Alarm Manager and Clock**
+- 🔭 I’m currently working on **Weather App with API**
 
-- 🌱 I’m currently learning **Background Services, AlarmManager and BroadCast Receiver**
+- 🌱 I’m currently learning **API, Clean Architecture **
 
 - 🤝 I’m looking for help with **work that can be useful and increase my algorithm**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdusamidDev?tab=repositories)
 
-- 💬 Ask me about **Android, Kotlin, Java, Figma**
+- 💬 Ask me about **Android, Kotlin, Java, Figma, Python**
 
 - 📫 How to reach me **muhammadovabdusamid0770@gmail.com, muhammadov0770@gmail.com**
 
