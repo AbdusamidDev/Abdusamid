@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdusamid Muhammadov</h1>
-<h3 align="center">Android Developer from Uzbekistan</h3>
+<h3 align="center">Android Developer from Tashkent,Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdusamid07&label=Profile%20views&color=0e75b6&style=flat" alt="[AbdusamidDev](https://github.com/AbdusamidDev)" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Instagram Clone**
+- 🔭 I’m currently working on **Telegram Clone**
 
 - 🌱 I’m currently learning **NDK, Dagger Hilt and Git(create own library)**
 
